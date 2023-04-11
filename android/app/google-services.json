@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "613979385991",
+    "project_id": "selling-bread-fbe75",
+    "storage_bucket": "selling-bread-fbe75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613979385991:android:5ffc90cf86f94edaafc822",
+        "android_client_info": {
+          "package_name": "com.example.selling_bread"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613979385991-qneeiqqijgd6dbkelu5eci9sjacf3gj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXRV3cdxjLRPGQSX2wMvIJV1vkeVoSu-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613979385991-qneeiqqijgd6dbkelu5eci9sjacf3gj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
