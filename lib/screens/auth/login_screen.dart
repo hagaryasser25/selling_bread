@@ -245,7 +245,7 @@ class _LoginScreenState extends State<LoginScreen> {
                                         context, SignupScreen.routeName);
                                   },
                                   child: Text(
-                                    'أضغط هنا لأنساء حساب',
+                                    'أضغط هنا لأنشاء حساب',
                                     style: TextStyle(
                                         
                                             color: HexColor('#fc6c85')),
